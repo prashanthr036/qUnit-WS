@@ -7,7 +7,7 @@ Calculations with qUnit
 
 ## Team slide
 
-![image](https://github.com/prashanthr036/qUnit-WS/blob/master/TeamSlide.PNG?raw=true)
+![image](https://github.com/prashanthr036/qUnit-WS/blob/master/Teamslide1.PNG?raw=true)
 
 ## References
 
